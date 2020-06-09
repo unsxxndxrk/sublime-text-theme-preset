@@ -1,1 +1,1 @@
-One Dark Material must be installed
+"One Dark Color Scheme" and "One Dark Material - Theme" must be installed.
